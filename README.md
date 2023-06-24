@@ -1,4 +1,4 @@
-# Reation Time Tester
+# Reaction Time Tester
 
 ## Overview
 
